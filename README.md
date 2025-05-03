@@ -4,15 +4,10 @@
 # mini-eCommerce
 mini-eCommerce is a virtual online shop built using the Django framework.
 
+![home](https://github.com/user-attachments/assets/a6680303-020c-45e2-a721-22f095f932ce)
+
 ## API Documentation
 To learn how to use the API, please refer to the [mini-eCommerce API documentation](https://app.swaggerhub.com/apis-docs/Yanpin/mini-ecommerce-api/1.0.0).
-
-## Screenshots
-Here are some screenshots showcasing the main features.
-![shop page](https://i.imgur.com/pBE1Vy5.png)
-![sign-in page](https://i.imgur.com/i6Zukph.png)
-![cart page](https://i.imgur.com/qNOeyoq.png)
-![orders page](https://i.imgur.com/XxUd9tp.png)
 
 ## Tech Stack
 - Django
